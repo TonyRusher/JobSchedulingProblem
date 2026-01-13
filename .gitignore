@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (very important)
+data/
+datasets/
+*.csv
+*.xlsx
+
+# Models / weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Logs & outputs
+logs/
+results/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Folders to ignore
+Articulo_bio/
